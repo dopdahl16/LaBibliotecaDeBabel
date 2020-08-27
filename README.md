@@ -1,4 +1,4 @@
-# LaBibliotecaDeBabel
+# La biblioteca de babel | The Library of Babel
 
 Un cuento fascinante y mis pensamientos.
 
